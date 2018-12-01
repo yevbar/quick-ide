@@ -22,6 +22,7 @@
     "@theia/json": "next",
     "@theia/textmate-grammars": "next",
     "@theia/mini-browser": "next",
-    "@theia/cli": "next"
+    "@theia/cli": "next",
+    "@theia/extension-manager": "next"
   }
 }
