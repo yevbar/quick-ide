@@ -23,6 +23,7 @@
     "@theia/textmate-grammars": "next",
     "@theia/mini-browser": "next",
     "@theia/cli": "next",
-    "@theia/extension-manager": "next"
+    "@theia/extension-manager": "next",
+    "vim": "latest"
   }
 }
