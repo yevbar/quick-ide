@@ -8965,6 +8965,11 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
+vim@latest:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/vim/-/vim-0.1.0.tgz#ddec872bc8a934cc5167c23f9dbce4839c1699a7"
+  integrity sha1-3eyHK8ipNMxRZ8I/nbzkg5wWmac=
+
 vinyl-file@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/vinyl-file/-/vinyl-file-2.0.0.tgz#a7ebf5ffbefda1b7d18d140fcb07b223efb6751a"
